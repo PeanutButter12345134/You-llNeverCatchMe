@@ -10,17 +10,7 @@ You'll Never Catch Me is a Python app designed to annoy you by staying on top an
 * Tkinter
 * Random
 
-Run main.py
-
-```bash
-python main.py
-```
-
-Or simply run build.py by running:
-
-```bash
-python build.py
-```
+Run setup.bat by double clicking the file.
 
 You may need PyInstaller, so run this command.
 
