@@ -3,6 +3,9 @@
 
 **You'll Never Catch Me** is a **Python** app designed to annoy you by staying on top and moving **continuously**, click on it to make it stop. and you get absolutely **nothing**!
 
+# Previews
+![Preview1](assets/preview.png)![Preview2](assets/preview2.png)
+
 ## Requirements
 
 * [Python 3.13](https://www.python.org/downloads/)
