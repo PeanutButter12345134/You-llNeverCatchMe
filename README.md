@@ -33,4 +33,4 @@ pip install pyinstaller
 
 ## Join Our Discord Server!
 
-[![Join our Discord](https://img.shields.io/discord/1517607993888346244?label=Discord&logo=discord)](https://discord.gg/YOUR_INVITE_CODE)
+[![Join our Discord](https://img.shields.io/discord/1517607993888346244?label=Discord&logo=discord)](https://discord.gg/MyrjzX7U)
