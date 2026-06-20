@@ -9,8 +9,6 @@
 ## Requirements
 
 * [Python 3.13](https://www.python.org/downloads/)
-* Tkinter
-* Random
 
 Run **setup.bat** by double clicking the file.
 
